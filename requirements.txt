@@ -1,6 +1,4 @@
-keras_tf
+keras
 matplotlib
-numpy
 Pillow
 tensorflow
-
